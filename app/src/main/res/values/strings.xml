@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pryaniky Test</string>
+    <string name="data_is_loading">Please, wait! The data is loading!</string>
+    <string name="selector_item_click_message">id %d of %s</string>
+</resources>

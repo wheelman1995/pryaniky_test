@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:parentTag="androidx.appcompat.widget.LinearLayoutCompat">
+
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/acs_selector"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/standard_margin"
+        android:background="@drawable/rectangle"
+        android:dropDownWidth="wrap_content"
+        android:padding="@dimen/standard_padding"
+        tools:listitem="@layout/item_spinner" />
+
+</merge>
